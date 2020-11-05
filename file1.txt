@@ -1,4 +1,4 @@
 change 1: line 1a
 change 1: line 2b
-change 1: line 4b
-change 1: line 5change 1: line 3a
+change 1: line 3a
+change 1: line 5a
